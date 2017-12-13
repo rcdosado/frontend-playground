@@ -1,0 +1,13 @@
+body {
+    transition: all .5s ease;
+}
+
+#hex {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+
+}
